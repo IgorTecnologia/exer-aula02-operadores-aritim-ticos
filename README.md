@@ -1,0 +1,1 @@
+# exer-aula02-operadores-scanner
